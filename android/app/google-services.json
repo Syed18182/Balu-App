@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "799405590311",
+    "project_id": "balu-a26d5",
+    "storage_bucket": "balu-a26d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799405590311:android:749dc01268de5b82cc4b02",
+        "android_client_info": {
+          "package_name": "com.hilson.balu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799405590311-jqautk82qblo4decr6tfrd5d846jfjii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hilson.balu",
+            "certificate_hash": "478710f5f11d4ba57c50de105fc764842ddcdb4d"
+          }
+        },
+        {
+          "client_id": "799405590311-pqepqs8qm5o7rke2cg3rs6fmtvk9pldj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNSys2Vz_3cIN7BkXjzce-thZy-7goru0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799405590311-pqepqs8qm5o7rke2cg3rs6fmtvk9pldj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799405590311:android:3408dc2ab551e1e5cc4b02",
+        "android_client_info": {
+          "package_name": "com.hilson.lorry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799405590311-pqepqs8qm5o7rke2cg3rs6fmtvk9pldj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNSys2Vz_3cIN7BkXjzce-thZy-7goru0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799405590311-pqepqs8qm5o7rke2cg3rs6fmtvk9pldj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799405590311:android:154e076ffd333a8ccc4b02",
+        "android_client_info": {
+          "package_name": "com.hilsoncorp.baluapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799405590311-pqepqs8qm5o7rke2cg3rs6fmtvk9pldj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNSys2Vz_3cIN7BkXjzce-thZy-7goru0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799405590311-pqepqs8qm5o7rke2cg3rs6fmtvk9pldj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
